@@ -1,0 +1,16 @@
+Crawling type: breath
+Max downloads: 10
+Delay: 1
+Total time: 13.73 seconds
+Total pages crawled: 10
+Crawled URLs:
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides
+	-	https://en.wikipedia.org/wiki/Theropoda
+	-	https://en.wikipedia.org/wiki/Dinosaur
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#bodyContent
+	-	https://en.wikipedia.org/wiki/Main_Page
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents
+	-	https://en.wikipedia.org/wiki/Portal:Current_events
+	-	https://en.wikipedia.org/wiki/Special:Random
+	-	https://en.wikipedia.org/wiki/Wikipedia:About

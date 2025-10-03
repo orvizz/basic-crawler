@@ -1,0 +1,37 @@
+Crawling type: depth
+Max downloads: 30
+Delay: 1
+Max depth: 5
+Total time: 53.09 seconds
+Total pages crawled: 30
+Crawled URLs:
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#bodyContent
+	-	https://en.wikipedia.org/wiki/Main_Page
+	-	https://en.wikipedia.org/wiki/Main_Page#bodyContent
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents
+	-	https://en.wikipedia.org/wiki/Portal:Current_events
+	-	https://en.wikipedia.org/wiki/Special:Random
+	-	https://en.wikipedia.org/wiki/Wikipedia:About
+	-	https://en.wikipedia.org/wiki/Help:Contents
+	-	https://en.wikipedia.org/wiki/Help:Introduction
+	-	https://en.wikipedia.org/wiki/Wikipedia:Community_portal
+	-	https://en.wikipedia.org/wiki/Special:RecentChanges
+	-	https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard
+	-	https://en.wikipedia.org/wiki/Special:SpecialPages
+	-	https://en.wikipedia.org/wiki/Special:Search
+	-	https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+	-	https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page
+	-	https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page
+	-	https://en.wikipedia.org/wiki/Special:MyContributions
+	-	https://en.wikipedia.org/wiki/Special:MyTalk
+	-	https://en.wikipedia.org/wiki/Talk:Main_Page
+	-	https://en.wikipedia.org/w/index.php?title=Main_Page&action=edit
+	-	https://en.wikipedia.org/w/index.php?title=Main_Page&action=history
+	-	https://en.wikipedia.org/wiki/Special:WhatLinksHere/Main_Page
+	-	https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page
+	-	https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1308700573
+	-	https://en.wikipedia.org/w/index.php?title=Main_Page&action=info
+	-	https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Main_Page&id=1308700573&wpFormIdentifier=titleform
+	-	https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMain_Page
+	-	https://en.wikipedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMain_Page

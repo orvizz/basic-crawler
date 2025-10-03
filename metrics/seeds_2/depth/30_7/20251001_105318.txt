@@ -1,0 +1,37 @@
+Crawling type: depth
+Max downloads: 30
+Delay: 1
+Max depth: 7
+Total time: 171.13 seconds
+Total pages crawled: 30
+Crawled URLs:
+	-	https://news.ycombinator.com
+	-	https://news.ycombinator.com/news
+	-	https://news.ycombinator.com/newest
+	-	https://news.ycombinator.com/front
+	-	https://news.ycombinator.com/newcomments
+	-	https://news.ycombinator.com/ask
+	-	https://news.ycombinator.com/show
+	-	https://news.ycombinator.com/jobs
+	-	https://news.ycombinator.com/item?id=45418675
+	-	https://news.ycombinator.com/item?id=45429768
+	-	https://news.ycombinator.com/item?id=45405977
+	-	https://news.ycombinator.com/item?id=45416971
+	-	https://www.ycombinator.com/apply/
+	-	https://news.ycombinator.com/newsguidelines.html
+	-	https://news.ycombinator.com/newsfaq.html
+	-	https://github.com/HackerNews/API
+	-	https://news.ycombinator.com/security.html
+	-	https://www.ycombinator.com/legal/
+	-	https://news.ycombinator.com/item?id=45435648
+	-	https://news.ycombinator.com/item?id=45434941
+	-	https://news.ycombinator.com/item?id=45435647
+	-	https://news.ycombinator.com/item?id=45435466
+	-	https://news.ycombinator.com/item?id=45435100
+	-	https://news.ycombinator.com/item?id=45435646
+	-	https://news.ycombinator.com/item?id=45433768
+	-	https://news.ycombinator.com/item?id=45425061
+	-	https://isomorphism.xyz/blog/2025/duolingo/
+	-	https://hn.algolia.com/?query=An%20opinionated%20critique%20of%20Duolingo&type=story&dateRange=all&sort=byDate&storyText=false&prefix&page=0
+	-	https://news.ycombinator.com/item?id=45425061#45435556
+	-	https://www.state.gov/foreign-service-institute/foreign-language-training

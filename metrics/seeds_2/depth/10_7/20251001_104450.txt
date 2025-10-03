@@ -1,0 +1,17 @@
+Crawling type: depth
+Max downloads: 10
+Delay: 1
+Max depth: 7
+Total time: 29.32 seconds
+Total pages crawled: 10
+Crawled URLs:
+	-	https://news.ycombinator.com
+	-	https://news.ycombinator.com/news
+	-	https://news.ycombinator.com/newest
+	-	https://news.ycombinator.com/newcomments
+	-	https://news.ycombinator.com/ask
+	-	https://news.ycombinator.com/front
+	-	https://news.ycombinator.com/show
+	-	https://blog.kagi.com/kagi-news
+	-	https://news.ycombinator.com/item?id=45426490
+	-	https://openai.com/index/sora-2/

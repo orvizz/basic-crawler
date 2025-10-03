@@ -1,0 +1,56 @@
+Crawling type: breath
+Max downloads: 50
+Delay: 1
+Total time: 97.00 seconds
+Total pages crawled: 50
+Crawled URLs:
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides
+	-	https://en.wikipedia.org/wiki/Theropoda
+	-	https://en.wikipedia.org/wiki/Dinosaur
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#bodyContent
+	-	https://en.wikipedia.org/wiki/Main_Page
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents
+	-	https://en.wikipedia.org/wiki/Portal:Current_events
+	-	https://en.wikipedia.org/wiki/Special:Random
+	-	https://en.wikipedia.org/wiki/Wikipedia:About
+	-	https://en.wikipedia.org/wiki/Help:Contents
+	-	https://en.wikipedia.org/wiki/Help:Introduction
+	-	https://en.wikipedia.org/wiki/Wikipedia:Community_portal
+	-	https://en.wikipedia.org/wiki/Special:RecentChanges
+	-	https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard
+	-	https://en.wikipedia.org/wiki/Special:SpecialPages
+	-	https://en.wikipedia.org/wiki/Special:Search
+	-	https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+	-	https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Dromaeosauroides
+	-	https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Dromaeosauroides
+	-	https://en.wikipedia.org/wiki/Special:MyContributions
+	-	https://en.wikipedia.org/wiki/Special:MyTalk
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#Discovery_and_naming
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#Description
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#Classification
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#Palaeoenvironment
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#See_also
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#References
+	-	https://en.wikipedia.org/wiki/Dromaeosauroides#External_links
+	-	https://ca.wikipedia.org/wiki/Dromaeosauroides_bornholmensis
+	-	https://cs.wikipedia.org/wiki/Dromaeosauroides
+	-	https://da.wikipedia.org/wiki/Dromaeosauroides
+	-	https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%88%D9%85%DB%8C%D8%B3%D8%A7%D8%B1%D9%88%DB%8C%D8%AF%DB%8C%D8%B3
+	-	https://fr.wikipedia.org/wiki/Dromaeosauroides
+	-	https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%9E%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%99%D7%93%D7%A1
+	-	https://nl.wikipedia.org/wiki/Dromaeosauroides
+	-	https://pl.wikipedia.org/wiki/Dromeozauroid
+	-	https://pt.wikipedia.org/wiki/Dromaeosauroides
+	-	https://ru.wikipedia.org/wiki/Dromaeosauroides
+	-	https://fi.wikipedia.org/wiki/Dromaeosauroides
+	-	https://sv.wikipedia.org/wiki/Dromaeosauroides
+	-	https://tr.wikipedia.org/wiki/Dromaeosauroides
+	-	https://vi.wikipedia.org/wiki/Dromaeosauroides
+	-	https://vo.wikipedia.org/wiki/Dromaeosauroides
+	-	https://zh.wikipedia.org/wiki/%E4%BC%BC%E9%A6%B3%E9%BE%8D%E5%B1%AC
+	-	https://www.wikidata.org/wiki/Special:EntityPage/Q1933219#sitelinks-wikipedia
+	-	https://en.wikipedia.org/wiki/Talk:Dromaeosauroides
+	-	https://en.wikipedia.org/w/index.php?title=Dromaeosauroides&action=edit
+	-	https://en.wikipedia.org/w/index.php?title=Dromaeosauroides&action=history
+	-	https://en.wikipedia.org/wiki/Special:WhatLinksHere/Dromaeosauroides

@@ -1,0 +1,17 @@
+Crawling type: depth
+Max downloads: 10
+Delay: 1
+Max depth: 3
+Total time: 29.36 seconds
+Total pages crawled: 10
+Crawled URLs:
+	-	https://news.ycombinator.com
+	-	https://news.ycombinator.com/news
+	-	https://news.ycombinator.com/newest
+	-	https://news.ycombinator.com/front
+	-	https://news.ycombinator.com/ask
+	-	https://news.ycombinator.com/show
+	-	https://news.ycombinator.com/jobs
+	-	https://news.ycombinator.com/item?id=45435100
+	-	https://github.com/google/cdc-file-transfer
+	-	https://news.ycombinator.com/item?id=45433768

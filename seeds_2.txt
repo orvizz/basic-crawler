@@ -1,0 +1,3 @@
+https://books.toscrape.com
+https://quotes.toscrape.com
+https://news.ycombinator.com

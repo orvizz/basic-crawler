@@ -1,0 +1,57 @@
+Crawling type: depth
+Max downloads: 50
+Delay: 1
+Max depth: 7
+Total time: 280.63 seconds
+Total pages crawled: 50
+Crawled URLs:
+	-	https://news.ycombinator.com
+	-	https://news.ycombinator.com/news
+	-	https://news.ycombinator.com/newest
+	-	https://news.ycombinator.com/front
+	-	https://news.ycombinator.com/newcomments
+	-	https://news.ycombinator.com/ask
+	-	https://news.ycombinator.com/jobs
+	-	https://news.ycombinator.com/item?id=45418675
+	-	https://news.ycombinator.com/item?id=45435691
+	-	https://news.ycombinator.com/item?id=45421443
+	-	https://www.ycombinator.com/apply/
+	-	https://news.ycombinator.com/newsguidelines.html
+	-	https://news.ycombinator.com/newsfaq.html
+	-	https://news.ycombinator.com/lists
+	-	https://github.com/HackerNews/API
+	-	https://news.ycombinator.com/security.html
+	-	https://www.ycombinator.com/legal/
+	-	https://news.ycombinator.com/show
+	-	https://news.ycombinator.com/showhn.html
+	-	https://news.ycombinator.com/shownew
+	-	https://www.lazarus-12.space/
+	-	https://imbue.com/sculptor/
+	-	https://news.ycombinator.com/item?id=45427697
+	-	https://culinarywiki.org/wiki/Main_Page
+	-	https://news.ycombinator.com/item?id=45431954
+	-	https://devbox.ar0.eu/
+	-	https://news.ycombinator.com/item?id=45421302
+	-	https://pipsgamer.com
+	-	https://infohash.lol/
+	-	https://github.com/currentspace/capn-rs
+	-	https://github.com/1024bees/dang
+	-	https://apps.apple.com/au/app/baby-monitor-lullamon/id6752753231
+	-	https://swapple.fuglede.dk
+	-	https://www.kerns.ai/
+	-	https://github.com/Codegres-com/Simple-Whatsapp-API
+	-	https://www.legesgpt.com
+	-	https://blog.craigie.dev/introducing-glide/
+	-	https://offline.church
+	-	https://news.ycombinator.com/item?id=45430253
+	-	https://whatsapp-ai-agent.bunnytech.io/
+	-	https://github.com/sweepai/bpe-qwen
+	-	https://toolbrew.co/
+	-	https://peanut.me
+	-	https://github.com/jx-codes/codemode-mcp
+	-	https://gamedevtorch.com/
+	-	https://vb.lk/
+	-	https://github.com/aidgncom/fullscore
+	-	https://github.com/thornumak/Invoice-Management-System
+	-	https://github.com/melezhik/sparky/blob/master/posts/SparkyAsSimpleOrchestratorforSelfHostedClusters.md
+	-	https://julienreszka.github.io/economic-simulator/

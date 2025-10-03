@@ -1,0 +1,37 @@
+Crawling type: depth
+Max downloads: 30
+Delay: 1
+Max depth: 3
+Total time: 43.51 seconds
+Total pages crawled: 30
+Crawled URLs:
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#bodyContent
+	-	https://en.wikipedia.org/wiki/Main_Page
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents
+	-	https://en.wikipedia.org/wiki/Portal:Current_events
+	-	https://en.wikipedia.org/wiki/Special:Random
+	-	https://en.wikipedia.org/wiki/Wikipedia:About
+	-	https://en.wikipedia.org/wiki/Help:Contents
+	-	https://en.wikipedia.org/wiki/Help:Introduction
+	-	https://en.wikipedia.org/wiki/Wikipedia:Community_portal
+	-	https://en.wikipedia.org/wiki/Special:RecentChanges
+	-	https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard
+	-	https://en.wikipedia.org/wiki/Special:SpecialPages
+	-	https://en.wikipedia.org/wiki/Special:Search
+	-	https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+	-	https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Early+Cretaceous
+	-	https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Early+Cretaceous
+	-	https://en.wikipedia.org/wiki/Special:MyContributions
+	-	https://en.wikipedia.org/wiki/Special:MyTalk
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#Geology
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#Evolution
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#Oil_shale
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#See_also
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#References
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#Notes
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#Sources
+	-	https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B4%D9%8A%D8%B1%D9%8A_%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1
+	-	https://ast.wikipedia.org/wiki/Cretaceu_Inferior
+	-	https://bs.wikipedia.org/wiki/Rana_kreda
+	-	https://ca.wikipedia.org/wiki/Cretaci_inferior

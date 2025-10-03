@@ -1,0 +1,17 @@
+Crawling type: depth
+Max downloads: 10
+Delay: 1
+Max depth: 7
+Total time: 15.47 seconds
+Total pages crawled: 10
+Crawled URLs:
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#bodyContent
+	-	https://en.wikipedia.org/wiki/Main_Page
+	-	https://en.wikipedia.org/wiki/Main_Page#bodyContent
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent
+	-	https://en.wikipedia.org/wiki/Portal:Current_events
+	-	https://en.wikipedia.org/wiki/Special:Random
+	-	https://en.wikipedia.org/wiki/Wikipedia:About
+	-	https://en.wikipedia.org/wiki/Help:Contents

@@ -1,0 +1,36 @@
+Crawling type: breath
+Max downloads: 30
+Delay: 1
+Total time: 50.92 seconds
+Total pages crawled: 30
+Crawled URLs:
+	-	https://books.toscrape.com
+	-	https://quotes.toscrape.com
+	-	https://news.ycombinator.com
+	-	https://books.toscrape.com/index.html
+	-	https://books.toscrape.com/catalogue/category/books_1/index.html
+	-	https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+	-	https://books.toscrape.com/catalogue/category/books/mystery_3/index.html
+	-	https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html
+	-	https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html
+	-	https://books.toscrape.com/catalogue/category/books/classics_6/index.html
+	-	https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html
+	-	https://books.toscrape.com/catalogue/category/books/romance_8/index.html
+	-	https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html
+	-	https://books.toscrape.com/catalogue/category/books/fiction_10/index.html
+	-	https://books.toscrape.com/catalogue/category/books/childrens_11/index.html
+	-	https://books.toscrape.com/catalogue/category/books/religion_12/index.html
+	-	https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html
+	-	https://books.toscrape.com/catalogue/category/books/music_14/index.html
+	-	https://books.toscrape.com/catalogue/category/books/default_15/index.html
+	-	https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html
+	-	https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html
+	-	https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html
+	-	https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html
+	-	https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html
+	-	https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html
+	-	https://books.toscrape.com/catalogue/category/books/science_22/index.html
+	-	https://books.toscrape.com/catalogue/category/books/poetry_23/index.html
+	-	https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html
+	-	https://books.toscrape.com/catalogue/category/books/art_25/index.html
+	-	https://books.toscrape.com/catalogue/category/books/psychology_26/index.html

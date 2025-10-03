@@ -1,0 +1,37 @@
+Crawling type: depth
+Max downloads: 30
+Delay: 1
+Max depth: 2
+Total time: 95.75 seconds
+Total pages crawled: 30
+Crawled URLs:
+	-	https://news.ycombinator.com
+	-	https://news.ycombinator.com/news
+	-	https://news.ycombinator.com/newest
+	-	https://news.ycombinator.com/front
+	-	https://news.ycombinator.com/newcomments
+	-	https://news.ycombinator.com/ask
+	-	https://news.ycombinator.com/show
+	-	https://news.ycombinator.com/jobs
+	-	https://news.ycombinator.com/item?id=45435100
+	-	https://github.com/google/cdc-file-transfer
+	-	https://news.ycombinator.com/item?id=45433768
+	-	https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/
+	-	https://news.ycombinator.com/item?id=45435422
+	-	https://arxiv.org/abs/2506.10605
+	-	https://news.ycombinator.com/item?id=45434941
+	-	https://openai.com/index/sora-2/
+	-	https://news.ycombinator.com/item?id=45427982
+	-	https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks
+	-	https://news.ycombinator.com/item?id=45434417
+	-	https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic
+	-	https://news.ycombinator.com/item?id=45422717
+	-	https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489
+	-	https://news.ycombinator.com/user?id=ohjeez
+	-	https://news.ycombinator.com/item?id=45405144
+	-	https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out
+	-	https://news.ycombinator.com/item?id=45424888
+	-	https://blog.dshr.org/2025/09/the-gaslit-asset-class.html
+	-	https://news.ycombinator.com/item?id=45433866
+	-	https://cognition.ai/blog/blockdiff
+	-	https://news.ycombinator.com/item?id=45433926

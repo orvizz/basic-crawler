@@ -1,0 +1,37 @@
+Crawling type: depth
+Max downloads: 30
+Delay: 1
+Max depth: 5
+Total time: 96.45 seconds
+Total pages crawled: 30
+Crawled URLs:
+	-	https://news.ycombinator.com
+	-	https://news.ycombinator.com/news
+	-	https://news.ycombinator.com/newest
+	-	https://news.ycombinator.com/newcomments
+	-	https://news.ycombinator.com/ask
+	-	https://news.ycombinator.com/show
+	-	https://news.ycombinator.com/jobs
+	-	https://news.ycombinator.com/item?id=45435638
+	-	https://news.ycombinator.com/item?id=45430604
+	-	https://diffs.dev
+	-	https://news.ycombinator.com/user?id=Ferret7446
+	-	https://news.ycombinator.com/item?id=45435637
+	-	https://news.ycombinator.com/item?id=45421564
+	-	https://news.ycombinator.com/item?id=45435636
+	-	https://news.ycombinator.com/item?id=45433866
+	-	https://news.ycombinator.com/item?id=45435635
+	-	https://news.ycombinator.com/item?id=45424704
+	-	https://news.ycombinator.com/item?id=45435634
+	-	https://news.ycombinator.com/item?id=45427197
+	-	https://news.ycombinator.com/item?id=45435633
+	-	https://news.ycombinator.com/item?id=45434146
+	-	https://news.ycombinator.com/item?id=45435632
+	-	https://news.ycombinator.com/item?id=45435230
+	-	https://news.ycombinator.com/item?id=45435629
+	-	https://news.ycombinator.com/item?id=45426680
+	-	https://news.ycombinator.com/item?id=45435628
+	-	https://news.ycombinator.com/item?id=45428482
+	-	https://news.ycombinator.com/item?id=45435627
+	-	https://news.ycombinator.com/item?id=45431628
+	-	https://news.ycombinator.com/item?id=45435625

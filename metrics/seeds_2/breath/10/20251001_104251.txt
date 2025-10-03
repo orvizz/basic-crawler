@@ -1,0 +1,16 @@
+Crawling type: breath
+Max downloads: 10
+Delay: 1
+Total time: 17.87 seconds
+Total pages crawled: 10
+Crawled URLs:
+	-	https://books.toscrape.com
+	-	https://quotes.toscrape.com
+	-	https://news.ycombinator.com
+	-	https://books.toscrape.com/index.html
+	-	https://books.toscrape.com/catalogue/category/books_1/index.html
+	-	https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+	-	https://books.toscrape.com/catalogue/category/books/mystery_3/index.html
+	-	https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html
+	-	https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html
+	-	https://books.toscrape.com/catalogue/category/books/classics_6/index.html

@@ -1,0 +1,57 @@
+Crawling type: depth
+Max downloads: 50
+Delay: 1
+Max depth: 5
+Total time: 159.63 seconds
+Total pages crawled: 50
+Crawled URLs:
+	-	https://news.ycombinator.com
+	-	https://news.ycombinator.com/news
+	-	https://news.ycombinator.com/newest
+	-	https://news.ycombinator.com/front
+	-	https://news.ycombinator.com/newcomments
+	-	https://news.ycombinator.com/ask
+	-	https://news.ycombinator.com/show
+	-	https://news.ycombinator.com/jobs
+	-	https://news.ycombinator.com/front?day=2025-09-29
+	-	https://blog.kagi.com/kagi-news
+	-	https://news.ycombinator.com/item?id=45426490
+	-	https://openai.com/index/sora-2/
+	-	https://news.ycombinator.com/item?id=45427982
+	-	https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out
+	-	https://news.ycombinator.com/item?id=45424888
+	-	https://www.empirical.health/blog/inflammation-and-heart-health/
+	-	https://news.ycombinator.com/item?id=45430498
+	-	https://github.com/cfenollosa/os-tutorial
+	-	https://news.ycombinator.com/item?id=45420173
+	-	https://ryansouthgate.com/goodbye-disqus/
+	-	https://ssg.dev/safe-zero-copy-operations-in-c/
+	-	https://news.ycombinator.com/item?id=45420001
+	-	https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df
+	-	https://news.ycombinator.com/item?id=45428482
+	-	https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl
+	-	https://news.ycombinator.com/item?id=45424827
+	-	https://simonwillison.net/2025/Sep/30/designing-agentic-loops/
+	-	https://news.ycombinator.com/item?id=45426680
+	-	https://www.jefftk.com/p/pasta-cooking-time
+	-	https://news.ycombinator.com/user?id=bariumbitmap
+	-	https://news.ycombinator.com/item?id=45424704
+	-	https://paulbourke.net/fractals/lyapunov/
+	-	https://news.ycombinator.com/item?id=45427059
+	-	https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/
+	-	https://news.ycombinator.com/item?id=45418261
+	-	https://isomorphism.xyz/blog/2025/duolingo/
+	-	https://news.ycombinator.com/item?id=45425061
+	-	https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/
+	-	https://news.ycombinator.com/item?id=45423917
+	-	https://browser.geekbench.com/v6/cpu/14173685
+	-	https://news.ycombinator.com/item?id=45427197
+	-	https://tasvideos.org/8991S
+	-	https://news.ycombinator.com/item?id=45411831
+	-	https://github.com/airweave-ai/airweave
+	-	https://news.ycombinator.com/item?id=45427482
+	-	https://www2.dmst.aueb.gr/dds/sw/dgsh/
+	-	https://news.ycombinator.com/item?id=45425298
+	-	https://blog.atuin.sh/atuin-desktop-open-source/
+	-	https://news.ycombinator.com/item?id=45431001
+	-	https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English

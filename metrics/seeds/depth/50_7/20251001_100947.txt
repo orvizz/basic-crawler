@@ -1,0 +1,57 @@
+Crawling type: depth
+Max downloads: 50
+Delay: 1
+Max depth: 7
+Total time: 91.99 seconds
+Total pages crawled: 50
+Crawled URLs:
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous
+	-	https://en.wikipedia.org/wiki/Early_Cretaceous#bodyContent
+	-	https://en.wikipedia.org/wiki/Main_Page
+	-	https://en.wikipedia.org/wiki/Main_Page#bodyContent
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent
+	-	https://en.wikipedia.org/wiki/Portal:Current_events
+	-	https://en.wikipedia.org/wiki/Special:Random
+	-	https://en.wikipedia.org/wiki/Wikipedia:About
+	-	https://en.wikipedia.org/wiki/Help:Contents
+	-	https://en.wikipedia.org/wiki/Help:Introduction
+	-	https://en.wikipedia.org/wiki/Wikipedia:Community_portal
+	-	https://en.wikipedia.org/wiki/Special:RecentChanges
+	-	https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard
+	-	https://en.wikipedia.org/wiki/Special:SpecialPages
+	-	https://en.wikipedia.org/wiki/Special:Search
+	-	https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+	-	https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikipedia%3AContents
+	-	https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wikipedia%3AContents
+	-	https://en.wikipedia.org/wiki/Special:MyContributions
+	-	https://en.wikipedia.org/wiki/Special:MyTalk
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Browse_by_subject
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Culture_and_the_arts
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Geography_and_places
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Health_and_fitness
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#History_and_events
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Human_activities
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Mathematics_and_logic
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Natural_and_physical_sciences
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#People_and_self
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Philosophy_and_thinking
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Reference_works
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Religion_and_belief_systems
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Society_and_social_sciences
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Technology_and_applied_sciences
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Browse_by_format
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Overviews
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Outlines
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Lists
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Portals
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Glossaries
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Category_system
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Articles_by_quality
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Vital_articles
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#List_of_articles_every_Wikipedia_should_have
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Featured_content
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Good_content
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Spoken_articles
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Alphabetical_lists_of_articles
+	-	https://en.wikipedia.org/wiki/Wikipedia:Contents#Topics
