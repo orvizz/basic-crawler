@@ -5,21 +5,22 @@
 </div>
 
 
-- [[#Introducción|Introducción]]
-- [[#Conceptos generales|Conceptos generales]]
-	- [[#Conceptos generales#Parametrización|Parametrización]]
-	- [[#Conceptos generales#Ejecución|Ejecución]]
-- [[#Funcionalidad|Funcionalidad]]
-	- [[#Funcionalidad#Obtención de links|Obtención de links]]
-	- [[#Funcionalidad#Obtención de permisos en `robots.txt`|Obtención de permisos en `robots.txt`]]
-	- [[#Funcionalidad#Normalizar links|Normalizar links]]
-	- [[#Funcionalidad#Guardar registros|Guardar registros]]
-- [[#Algoritmos de búsqueda|Algoritmos de búsqueda]]
-	- [[#Algoritmos de búsqueda#Búsqueda en profundidad|Búsqueda en profundidad]]
-	- [[#Algoritmos de búsqueda#Búsqueda en anchura|Búsqueda en anchura]]
-- [[#Evaluación|Evaluación]]
-	- [[#Evaluación#Comprobación de los resultados|Comprobación de los resultados]]
-- [[#Entrega|Entrega]]
+- [Introducción](#introducción)
+- [Conceptos generales](#conceptos-generales)
+  - [Parametrización](#parametrización)
+  - [Ejecución](#ejecución)
+- [Funcionalidad](#funcionalidad)
+  - [Obtención de links](#obtención-de-links)
+  - [Obtención de permisos en `robots.txt`](#obtención-de-permisos-en-robotstxt)
+  - [Normalizar links](#normalizar-links)
+  - [Guardar registros](#guardar-registros)
+- [Algoritmos de búsqueda](#algoritmos-de-búsqueda)
+  - [Búsqueda en profundidad](#búsqueda-en-profundidad)
+  - [Búsqueda en anchura](#búsqueda-en-anchura)
+- [Evaluación](#evaluación)
+  - [Comprobación de los resultados](#comprobación-de-los-resultados)
+- [Entrega](#entrega)
+
 
 
 
