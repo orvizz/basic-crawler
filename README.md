@@ -41,9 +41,6 @@ El proyecto se basa en un único archivo `crawler.py` que implementa la lógica 
 
 El programa exporta los resultados en formato `.warc.gz` dentro del directorio `/out`. Estos archivos tendrán como nombre el dominio de la página web, guardando en cada archivo todos los resultados obtenidos dentro de ese dominio. Antes de guardar un archivo en formato `warc`, el algoritmo comprueba que esa página no esté indexada ya.
 
-![[Pasted image 20251001100159.png]]
-<figcaption>Ejemplo de archivos generados</figcaption>
-
 ### Parametrización
 
 El programa se puede configurar con 8 diferentes variables que residen en el archivo `.py` del programa:
@@ -159,10 +156,6 @@ python comparar_metricas.py --dir /directorio
 ```
 
 Un ejemplo de ejecución de este script sería el siguiente:
-
-![[Pasted image 20251001193704.png]]
-
-En caso de que una ejecución mostrara nuevas urls, estas saldrían reflejadas aquí
 
 ## Entrega
 
